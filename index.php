@@ -16,7 +16,7 @@
                     <li><a href='index.html'>Home</a></li>
                     <li><a href='pages/aboutus.html'>About Us</a></li>
                     <li><a href='#'>Services</a></li>
-                    <li><a href='#'>Contact</a></li>
+                    <li><a href='page1/Contactus.html'>Contact</a></li>
 <li><button class='loginbtn' onclick="document.getElementById('login-form').style.display='block'" style="width:auto;">Login</button></li>
                 </ul>
             </nav>
