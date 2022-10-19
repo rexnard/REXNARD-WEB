@@ -13,11 +13,11 @@
 	background-size: cover;
 	position: absolute;
 }
-.navbar
-{
+.navbar 
+{   
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 90px;
     padding-left: 50px;
     padding-right: 30px;
     padding-top: 50px;
@@ -25,7 +25,8 @@
 nav
 {
     flex: 1;
-    text-align: right;
+    padding-top:10px; 
+    text-align: center;
 }
 nav ul 
 {
