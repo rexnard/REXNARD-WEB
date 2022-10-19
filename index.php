@@ -11,16 +11,25 @@
             <div>
                 <a href='index.html'> </a>
             </div>
+            <div>
+      <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rexnard/video/7076597924213394690" data-video-id="7076597924213394690" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@rexnard" href="https://www.tiktok.com/@rexnard?refer=embed">@rexnard</a> <p>American Authors - Best Day Of My Life (Lyrics)</p> <a target="_blank" title="♬ original sound  - Rheyxs Fernandez" href="https://www.tiktok.com/music/original-sound-Rheyxs-Fernandez-7076598006854978306?refer=embed">♬ original sound  - Rheyxs Fernandez</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+            
+            </div>
             <nav>
                 <ul id='SELECTION'>
                     <li><a href='index.html'>Home</a></li>
-                    <li><a href='pages/aboutus.html'>About Us</a></li>
+                    <li><a href='pages/aboutus.html'>About Me</a></li>
                     <li><a href='#'>Services</a></li>
                     <li><a href='page1/Contactus.html'>Contact</a></li>
 <li><button class='loginbtn' onclick="document.getElementById('login-form').style.display='block'" style="width:auto;">Login</button></li>
                 </ul>
             </nav>
+          <div>                 
+            <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rexnard/video/7132527432107609345" data-video-id="7132527432107609345" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@rexnard" href="https://www.tiktok.com/@rexnard?refer=embed">@rexnard</a> <a title="negrosoccidental" target="_blank" href="https://www.tiktok.com/tag/negrosoccidental?refer=embed">#negrosoccidental</a> <a target="_blank" title="♬ original sound  - Rheyxs Fernandez" href="https://www.tiktok.com/music/original-sound-Rheyxs-Fernandez-7132527458326170370?refer=embed">♬ original sound  - Rheyxs Fernandez</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+            </div>
+
         </div>
+
         
         <div id='login-form'class='login-page'>
             <div class="form-box">
@@ -50,6 +59,7 @@
         </div>
     </div>
     
+    
     <script>
         var x=document.getElementById('login');
 		var y=document.getElementById('register');
@@ -77,5 +87,6 @@
             }
         }
     </script>
+
 </body>
 </html>
